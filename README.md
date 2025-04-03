@@ -5,10 +5,10 @@
 <table border="1" cellpadding="10" cellspacing="0">
     <tr>
         <th>Invite Code</th>
-        <th>Benefit</th>
+        <th>ACCOUNT</th>
     </tr>
     <tr>
-        <td><strong>account</strong></td>
+        <td><strong>Benefits</strong></td>
         <td><a href="https://axiom.trade/@account" target="_blank">Axiom Trade Exclusive Early Access & Reduced Trading Fees</a></td>
     </tr>
 </table>
